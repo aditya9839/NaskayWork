@@ -19,7 +19,7 @@ import com.google.android.gms.tasks.OnSuccessListener;
 
 public class MainActivity extends AppCompatActivity {
 
-    //this is test commit
+    //this is test commit again
     String TAG = "TAG";
     ImageView camera;
     Bitmap bmp;
